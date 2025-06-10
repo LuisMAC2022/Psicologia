@@ -1,13 +1,17 @@
-# Psicologia
-Este repositorio lo utilizare para enseñarle psicologia a mi primo.
+# Psicología
 
-Poco a poco ire subiendo contenido en pdf cual quiero que proceses y me ayudes a presentarlo ordenadamente en una pagina web. 
+Este repositorio contiene material en PDF sobre psicología y una página web sencilla para consultarlo.
 
-Quiero que te encargues de que todo este bien ordenado, creando carpetas y renombrando archivos si es necesario.
+## Estructura del proyecto
 
-si tienes alguna duda o sugerencia hazmelo saber
+- `docs/` carpeta principal del sitio web.
+  - `pdfs/` documentos en PDF.
+  - `css/style.css` hoja de estilos.
+  - `index.html` página con resúmenes y enlaces.
 
-el primer recurso es el otro documento en este repo. 
+## Instrucciones
 
-lee el documento y crea todo lo necesario para la pagina web que sirva para
-resumir el contenido (carpetas, archivos html,css, js, etc)
+1. Abra `docs/index.html` en su navegador para ver el material resumido.
+2. Para añadir nuevos archivos PDF, colóquelos en `docs/pdfs/` y edite `index.html` siguiendo el formato existente.
+
+Para más detalles consulte `CONTRIBUTING.md`.
