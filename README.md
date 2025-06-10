@@ -7,6 +7,7 @@ Quiero que te encargues de que todo este bien ordenado, creando carpetas y renom
 
 si tienes alguna duda o sugerencia hazmelo saber
 
-el primer recurso esta en el siguiente enlace:
+el primer recurso es el otro documento en este repo. 
 
-https://online.uniymca.edu.mx/pluginfile.php/233326/mod_resource/content/2/Dialnet-ProcesoDeLaAtencionYSuImplicacionEnElProcesoDeApre-6650939.pdf
+lee el documento y crea todo lo necesario para la pagina web que sirva para
+resumir el contenido (carpetas, archivos html,css, js, etc)
