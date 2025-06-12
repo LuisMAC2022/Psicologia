@@ -3,8 +3,7 @@ h1 {text-align: center; margin-bottom: 2rem;}
 h2 {color:#444; margin-top:1.5rem;}
 section {max-width:800px; margin:0 auto 2rem auto; background:#fff; padding:1rem 2rem; border-radius:4px; box-shadow:0 0 6px rgba(0,0,0,0.1);}
 a {color:#0066cc;}
-nav {text-align:center; margin:2rem 0;}
-nav a {font-weight:bold; text-decoration:none;}
+.resumen {background:#eef7ff; border-left:4px solid #66a3ff;}
 .popup {position:relative; border-bottom:1px dotted #333; cursor:help;}
 .popup:hover::after {
   content:attr(data-text);
