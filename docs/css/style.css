@@ -20,3 +20,8 @@ a {color:#0066cc;}
   width:200px;
   z-index:10;
 }
+@media (max-width: 600px) {
+  body { margin: 1rem; }
+  section { padding: 1rem; }
+  .popup:hover::after { width: 180px; font-size: 0.9em; }
+}
