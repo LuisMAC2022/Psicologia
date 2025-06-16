@@ -1,6 +1,6 @@
 :root {
-  --color-primary: #2a7ae2;
-  --color-secondary: #e94e77;
+  --color-primary: #0153b4;
+  --color-secondary: #b02455;
   --color-light: #fafafa;
   --color-dark: #333;
   --section-bg-odd: #ffffff;
@@ -72,7 +72,7 @@ nav a {
 
 .resumen {
   background: #eef7ff;
-  border-left: 4px solid #66a3ff;
+  border-left: 4px solid #174eb3;
 }
 
 .popup {
