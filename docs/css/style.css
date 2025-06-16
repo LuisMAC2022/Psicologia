@@ -54,7 +54,8 @@ a {
   cursor: help;
 }
 
-.popup:hover::after {
+.popup:hover::after,
+.popup:focus::after {
   content: attr(data-text);
   position: absolute;
   left: 0;
